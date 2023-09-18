@@ -22,7 +22,7 @@ Se abre el archivo ejecutable y se aceptan todas las opciones.
 
 Se debe buscar la ruta con el archivo Excel que será cargado al sistema y seleccionar la opción "Calcular" 
 
-## Ejecutando las pruebas
+### Ejecutando las pruebas
 
 Las pruebas deben ser ejecutadas con el framework Pytest
 
